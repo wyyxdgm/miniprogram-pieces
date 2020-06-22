@@ -1,0 +1,6 @@
+<cover-view class="test-canvas-on-cover">
+  <cover-view>1212</cover-view>
+  <canvas canvas-id="canvas-on-cover" id="canvas-on-cover" type="2d" class="canvas-on-cover" style="width:200rpx;height:200rpx;"></canvas>
+</cover-view>
+<canvas id="canvas" canvas-id="canvas" type="2d" class="canvas" style="width:200rpx;height:200rpx;"></canvas>
+<view class="common-view">普通view</view>
